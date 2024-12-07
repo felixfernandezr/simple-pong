@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1660087245 source:x:\presentacion\documents\progrmacion\pong\src\pelota.cpp
+	"Pelota.h"
+	<iostream>
+	<windows.h>
+
+1660086934 x:\presentacion\documents\progrmacion\pong\include\pelota.h
+
+1660090780 source:x:\presentacion\documents\progrmacion\pong\main.cpp
+	"Juego.h"
+
+1660093052 source:x:\presentacion\documents\progrmacion\pong\src\juego.cpp
+	"Juego.h"
+	<iostream>
+
+1660092641 x:\presentacion\documents\progrmacion\pong\include\juego.h
+	"Pelota.h"
+	"Barra.h"
+
+1660091837 x:\presentacion\documents\progrmacion\pong\include\barra.h
+
+1660093089 source:x:\presentacion\documents\progrmacion\pong\src\barra.cpp
+	"Barra.h"
+	<iostream>
+	<windows.h>
+
+1733248478 source:c:\users\felix\downloads\pong\pong\main.cpp
+	"Juego.h"
+
+1733248478 c:\users\felix\downloads\pong\pong\include\juego.h
+	"Pelota.h"
+	"Barra.h"
+
+1733248478 c:\users\felix\downloads\pong\pong\include\pelota.h
+
+1733248478 c:\users\felix\downloads\pong\pong\include\barra.h
+
+1733248478 source:c:\users\felix\downloads\pong\pong\src\barra.cpp
+	"Barra.h"
+	<iostream>
+	<windows.h>
+
+1733248478 source:c:\users\felix\downloads\pong\pong\src\pelota.cpp
+	"Pelota.h"
+	<iostream>
+	<windows.h>
+
